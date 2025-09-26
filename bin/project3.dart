@@ -71,8 +71,8 @@ var opo = {
 };
 
 print(opo);
-print(opo['nama'])
-print(opo[])
+print(opo['nama']);
+print(opo['umur']);
 
 
 
