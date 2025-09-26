@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:project3/project3.dart' as project3;
+
 
 dynamic main(List<String> arguments) {
   var f1 = List<int>.filled(6,3);
